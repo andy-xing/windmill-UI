@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/andy-xing/windmill-UI/issues"
   },
-  "homepage": "https://github.com/andy-xing/windmill-UI#readme"
+  "homepage": "https://github.com/andy-xing/windmill-UI#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }
